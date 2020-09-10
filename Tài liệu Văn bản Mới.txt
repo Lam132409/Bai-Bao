@@ -16,7 +16,6 @@ Published Dec 16th, 2019 12:34 PM  6 min read
 260
 Các thao tác DOM cơ bản nhất ( 1)
 HTMLdom
-Tiếp theo sơ ri này mình muốn đề cập lại về sức mạnh lập try8,svgdình HTML động thông qua DOM. Với DOM cùng JavaScript nhận được tất cả sức mạnh cần thiết để tạo ra HTML động:
 
 JavaScript có thể thay đổi tất cả các phần tử HTML trong trang
 JavaScript có thể thay đổi tất cả các thuộc tính HTML trong trang
