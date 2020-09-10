@@ -18,7 +18,7 @@ Các thao tác DOM cơ bản nhất ( 1)
 HTMLdom
 
 JavaScript có thể thay đổi tất cả các phần tử HTML trong trang
-JavaScript có thể thay đổi tất cả các thuộc tính HTML trong trang
+JavaScript có thể thay đổi tất cả các  tính HTML trong trang
 JavaScript có thể thay đổi tất cả các phong cách CSS trong trang
 JavaScript có thể loại bỏ các yếu tố HTML và thuộc tính hiện tại
 JavaScript có thể thêm các yếu tố HTML mới và các thuộc tính
